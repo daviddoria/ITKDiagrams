@@ -1,0 +1,26 @@
+
+ConstantPadImageFilter
+----------------
+  ImageType::SizeType lowerExtendRegion;
+  lowerExtendRegion[0] = 20;
+  lowerExtendRegion[1] = 30;
+ 
+  ImageType::SizeType upperExtendRegion;
+  upperExtendRegion[0] = 50;
+  upperExtendRegion[1] = 40;
+
+  //padFilter->SetPadBound(outputRegion); // Calls SetPadLowerBound(region) and SetPadUpperBound(region)
+  padFilter->SetPadLowerBound(lowerExtendRegion); 
+  padFilter->SetPadUpperBound(upperExtendRegion);
+
+MirrorPadImageFilter
+-----------
+Same syntax as constantPadImageFilter, but flips image directly over boundary
+
+WrapPadImageFilter
+-----------
+Same syntax as constantPadImageFilter, but copies patches from the other side of the input image to fill the extended portion of the output image
+
+
+Neighborhood iterators
+----------------

@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="784.28571"
-   height="394.28571"
+   width="701.27698"
+   height="601.57367"
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
@@ -93,17 +93,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="568.73886"
-     inkscape:cy="174.80515"
+     inkscape:zoom="1"
+     inkscape:cx="254.98599"
+     inkscape:cy="244.25186"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
+     inkscape:window-width="1400"
      inkscape:window-height="975"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -120,89 +127,79 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(23.956097,-127.91209)">
+     transform="translate(135.08539,-31.793222)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.24226022px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect2816"
-       width="436.38589"
-       height="296.98486"
-       x="139.40105"
-       y="177.57008" />
+       width="500.00052"
+       height="399.99969"
+       x="-35.085651"
+       y="133.36694" />
     <rect
-       style="fill:#df003d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#df003d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25267315px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect2818"
-       width="315.1676"
-       height="206.07112"
-       x="200.01019"
-       y="223.02695" />
+       width="381.45709"
+       height="267.1705"
+       x="24.07893"
+       y="222.74583" />
     <rect
        style="fill:#0000ff;fill-opacity:1"
        id="rect3613"
        width="60"
-       height="45.000004"
-       x="514.6153"
-       y="177.1978" />
+       height="90.000008"
+       x="405.53601"
+       y="132.74582" />
     <rect
        style="fill:#0000ff;fill-opacity:1"
        id="rect3613-4"
        width="59.285713"
        height="43.57143"
-       x="140.32965"
-       y="429.69781" />
+       x="-35.706783"
+       y="490.41635" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="322.47247"
-       y="155.05495"
+       x="410.47247"
+       y="80.054932"
        id="text3637"><tspan
          sodipodi:role="line"
          id="tspan3639"
-         x="322.47247"
-         y="155.05495"
+         x="410.47247"
+         y="80.054932"
          style="font-size:12px">Upper boundary size[1]</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="596.74695"
-       y="271.93692"
+       x="413.08093"
+       y="269.24973"
        id="text3637-4"><tspan
          sodipodi:role="line"
          id="tspan3639-6"
-         x="596.74695"
-         y="271.93692"
+         x="413.08093"
+         y="269.24973"
          style="font-size:12px">Upper boundary size[0]</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 452.85714,90.842006 -40,-40.714286"
-       id="path3666"
-       transform="translate(138.90105,177.07008)" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="250.3183"
-       y="495.50833"
+       x="-124.6817"
+       y="445.5083"
        id="text3637-5"><tspan
          sodipodi:role="line"
          id="tspan3639-7"
-         x="250.3183"
-         y="495.50833"
+         x="-124.6817"
+         y="445.5083"
          style="font-size:12px">Lower boundary size[1]</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="-8.1212664"
-       y="398.36548"
+       x="-100.12126"
+       y="591.36548"
        id="text3637-5-2"><tspan
          sodipodi:role="line"
          id="tspan3639-7-6"
-         x="-8.1212664"
-         y="398.36548"
+         x="-100.12126"
+         y="591.36548"
          style="font-size:12px">Lower boundary size[0]</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="M -2.1428571,222.27058 20.714286,246.55629"
-       id="path4542"
-       transform="translate(138.90105,177.07008)" />
     <rect
        style="fill:#0000ff;fill-opacity:0"
        id="rect4918"
@@ -214,65 +211,82 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="234.24438"
-       y="337.09766"
+       x="60.244377"
+       y="369.09766"
        id="text4941"><tspan
          sodipodi:role="line"
          id="tspan4943"
-         x="234.24438"
-         y="337.09766">Filter output</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 491.42857,27.142848 44.28572,44.285715"
-       id="path2924"
-       transform="translate(-23.956097,127.91209)" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="M 271.42857,363.57142 228.57143,320.71428"
-       id="path3896"
-       transform="translate(-23.956097,127.91209)" />
+         x="60.244377"
+         y="369.09766">Filter output</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="151.04388"
-       y="205.05495"
+       x="108.04388"
+       y="186.05495"
        id="text4084"><tspan
          sodipodi:role="line"
          id="tspan4086"
-         x="151.04388"
-         y="205.05495"
+         x="108.04388"
+         y="186.05495"
          style="font-size:20px">Discarded region</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="400.30521"
-       y="460.57251"
+       x="267.30521"
+       y="516.57251"
        id="text4084-0"><tspan
          sodipodi:role="line"
          id="tspan4086-6"
-         x="400.30521"
-         y="460.57251"
+         x="267.30521"
+         y="516.57251"
          style="font-size:20px">Discarded region</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="M 679.28571,300.71428 602.41805,256.33471"
-       id="path4113"
-       transform="translate(-23.956097,127.91209)" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="662.47253"
-       y="450.05493"
+       x="495.47253"
+       y="582.05493"
        id="text4301"><tspan
          sodipodi:role="line"
          id="tspan4303"
-         x="665.97449"
-         y="450.05493"
+         x="498.97449"
+         y="582.05493"
          style="font-size:22px;text-align:center;text-anchor:middle">Filter input </tspan><tspan
          sodipodi:role="line"
-         x="662.47253"
-         y="477.55493"
+         x="495.47253"
+         y="609.55493"
          style="font-size:22px;text-align:center;text-anchor:middle"
          id="tspan4305">image</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.31559324;stroke-opacity:1"
+       id="rect3744"
+       width="700.00037"
+       height="599.99969"
+       x="-135.08554"
+       y="33.366989" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 118,549.57367 6,-46"
+       id="path2934"
+       transform="translate(-135.08539,31.793222)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 35,421.57367 59,57"
+       id="path4096"
+       transform="translate(-135.08539,31.793222)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 570,224.57367 0,-30"
+       id="path4284"
+       transform="translate(-135.08539,31.793222)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 659,57.573669 607,142.57367"
+       id="path4472"
+       transform="translate(-135.08539,31.793222)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 615,527.57367 -15,-20"
+       id="path4660"
+       transform="translate(-135.08539,31.793222)" />
   </g>
 </svg>
